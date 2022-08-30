@@ -41,4 +41,4 @@ ql repo https://github.com/mrabit/xmtravel.git "" "index|api|console|config" "ap
 
 ### 注意
 
-[关于使用 Actions 的注意事项](https://www.v2ex.com/t/817831), 建议在本地部署启动
+[关于使用 Actions 的注意事项](https://www.v2ex.com/t/817831), 建议在本地部署启1动
